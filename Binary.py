@@ -3,7 +3,7 @@ bnum = int(input())
 
 dnum = 0
 m = 1
-blen = len(str(bmum))
+blen = len(str(bnum))
 
 for k in range(blen):
       rem = bnum%10
